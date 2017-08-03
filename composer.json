@@ -1,0 +1,15 @@
+{
+    "name": "hsubuu/merchant",
+    "license": "hsubuu",
+    "authors": [
+        {
+            "name": "mggyi",
+            "email": "mggyi86@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "guzzlehttp/guzzle": "~5.3|~6.0",
+        "php": ">=5.5.9"
+    }
+}
